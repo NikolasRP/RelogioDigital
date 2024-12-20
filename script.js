@@ -19,3 +19,5 @@ const relogio = setInterval(function time() {
     segundos.textContent = s;
 
 })
+
+// Me inspirei na "Larissa Kich"
